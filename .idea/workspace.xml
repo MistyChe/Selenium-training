@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d79a516b-0cc0-41e4-bfca-bed668458ce4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/priceComparer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newUserRegistration.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Selenium-training.iws" />
@@ -24,21 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="google_search_test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/google_search_test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="34" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="menuClicker.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/menuClicker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1394">
-              <caret line="82" column="6" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
+            <state relative-caret-position="1037">
+              <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -47,8 +37,8 @@
       <file leaf-file-name="stickersChecker.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stickersChecker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="27" selection-end-column="3" />
+            <state relative-caret-position="323">
+              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -57,7 +47,7 @@
       <file leaf-file-name="alphabetCountry.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alphabetCountry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="837">
+            <state relative-caret-position="1500">
               <caret line="149" column="0" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
               <folding />
             </state>
@@ -67,18 +57,38 @@
       <file leaf-file-name="alphabetZones.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alphabetZones.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="374">
+              <caret line="22" column="63" selection-start-line="19" selection-start-column="3" selection-end-line="22" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="priceComparer.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="priceComparer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/priceComparer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+            <state relative-caret-position="461">
+              <caret line="74" column="85" selection-start-line="74" selection-start-column="85" selection-end-line="74" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newUserRegistration.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/newUserRegistration.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="google_search_test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/google_search_test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="17" column="83" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
               <folding />
             </state>
           </provider>
@@ -107,6 +117,7 @@
         <option value="$PROJECT_DIR$/alphabetCountry.js" />
         <option value="$PROJECT_DIR$/alphabetZones.js" />
         <option value="$PROJECT_DIR$/priceComparer.js" />
+        <option value="$PROJECT_DIR$/newUserRegistration.js" />
       </list>
     </option>
   </component>
@@ -172,7 +183,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/priceComparer.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/newUserRegistration.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="JavaScriptPreferStrict" value="false" />
@@ -191,7 +202,7 @@
       <recent name="C:\Users\Толик\Documents\GitHub\Selenium-training" />
     </key>
   </component>
-  <component name="RunManager" selected="Mocha.priceComparer">
+  <component name="RunManager" selected="Mocha.userRegistration">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -305,6 +316,18 @@
       <test-file>$PROJECT_DIR$/priceComparer.js</test-file>
       <method />
     </configuration>
+    <configuration default="false" name="userRegistration" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options>-t 30000</extra-mocha-options>
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/newUserRegistration.js</test-file>
+      <method />
+    </configuration>
     <configuration default="false" name="alphabetZones" type="mocha-javascript-test-runner" factoryName="Mocha" singleton="false">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -329,14 +352,15 @@
       <test-file>$PROJECT_DIR$/stickersChecker.js</test-file>
       <method />
     </configuration>
-    <list size="7">
+    <list size="8">
       <item index="0" class="java.lang.String" itemvalue="Mocha.google_search_test.js" />
       <item index="1" class="java.lang.String" itemvalue="Mocha.adminLogin" />
       <item index="2" class="java.lang.String" itemvalue="Mocha.menuClicker" />
       <item index="3" class="java.lang.String" itemvalue="Mocha.alphabetCountry" />
       <item index="4" class="java.lang.String" itemvalue="Mocha.priceComparer" />
-      <item index="5" class="java.lang.String" itemvalue="Mocha.alphabetZones" />
-      <item index="6" class="java.lang.String" itemvalue="Mocha.stickerChecker" />
+      <item index="5" class="java.lang.String" itemvalue="Mocha.userRegistration" />
+      <item index="6" class="java.lang.String" itemvalue="Mocha.alphabetZones" />
+      <item index="7" class="java.lang.String" itemvalue="Mocha.stickerChecker" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -358,54 +382,54 @@
       <workItem from="1482727248242" duration="7501000" />
       <workItem from="1482783487440" duration="7834000" />
       <workItem from="1482869431927" duration="5916000" />
-      <workItem from="1483280030692" duration="12231000" />
+      <workItem from="1483280030692" duration="20004000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="priceComparer - 2017.01.01 at 18h 34m 15s.xml">
-      <configuration name="priceComparer" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="userRegistration - 2017.01.01 at 22h 52m 03s.xml">
+      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="priceComparer - 2017.01.01 at 18h 50m 00s.xml">
-      <configuration name="priceComparer" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="userRegistration - 2017.01.01 at 22h 52m 53s.xml">
+      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="priceComparer - 2017.01.01 at 18h 52m 13s.xml">
-      <configuration name="priceComparer" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="userRegistration - 2017.01.01 at 22h 54m 17s.xml">
+      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="priceComparer - 2017.01.01 at 19h 05m 25s.xml">
-      <configuration name="priceComparer" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="userRegistration - 2017.01.01 at 22h 55m 03s.xml">
+      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="priceComparer - 2017.01.01 at 19h 22m 52s.xml">
-      <configuration name="priceComparer" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="userRegistration - 2017.01.01 at 22h 55m 37s.xml">
+      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="priceComparer - 2017.01.01 at 19h 24m 41s.xml">
-      <configuration name="priceComparer" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="userRegistration - 2017.01.01 at 22h 56m 30s.xml">
+      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="priceComparer - 2017.01.01 at 19h 26m 18s.xml">
-      <configuration name="priceComparer" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="userRegistration - 2017.01.01 at 22h 59m 17s.xml">
+      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="priceComparer - 2017.01.01 at 19h 27m 57s.xml">
-      <configuration name="priceComparer" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="userRegistration - 2017.01.01 at 23h 09m 22s.xml">
+      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="priceComparer - 2017.01.01 at 19h 48m 00s.xml">
-      <configuration name="priceComparer" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="userRegistration - 2017.01.01 at 23h 10m 16s.xml">
+      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="priceComparer - 2017.01.01 at 19h 48m 24s.xml">
-      <configuration name="priceComparer" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="userRegistration - 2017.01.01 at 23h 23m 11s.xml">
+      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50297000" />
+    <option name="totallyTimeSpent" value="58070000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1918" height="1038" extended-state="1" />
+    <frame x="1" y="1" width="1918" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17819148" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36704546" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.117045455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -678,50 +702,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/menuClicker.js">
+    <entry file="file://$PROJECT_DIR$/priceComparer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1394">
-          <caret line="82" column="6" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
+        <state relative-caret-position="461">
+          <caret line="74" column="85" selection-start-line="74" selection-start-column="85" selection-end-line="74" selection-end-column="85" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alphabetCountry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
+        <state relative-caret-position="1500">
           <caret line="149" column="0" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stickersChecker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="27" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/google_search_test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alphabetZones.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="374">
+          <caret line="22" column="63" selection-start-line="19" selection-start-column="3" selection-end-line="22" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/priceComparer.js">
+    <entry file="file://$PROJECT_DIR$/stickersChecker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menuClicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google_search_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="17" column="83" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newUserRegistration.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
