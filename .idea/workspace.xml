@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d79a516b-0cc0-41e4-bfca-bed668458ce4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newUserRegistration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/Darth-Vader-Rubber-Duck.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newProductAdding.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newUserRegistration.js" afterPath="$PROJECT_DIR$/newUserRegistration.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/priceComparer.js" afterPath="$PROJECT_DIR$/priceComparer.js" />
     </list>
     <ignored path="Selenium-training.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +30,7 @@
       <file leaf-file-name="menuClicker.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/menuClicker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1037">
+            <state relative-caret-position="782">
               <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
               <folding />
             </state>
@@ -47,8 +50,8 @@
       <file leaf-file-name="alphabetCountry.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alphabetCountry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1500">
-              <caret line="149" column="0" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -57,8 +60,8 @@
       <file leaf-file-name="alphabetZones.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alphabetZones.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="63" selection-start-line="19" selection-start-column="3" selection-end-line="22" selection-end-column="63" />
+            <state relative-caret-position="119">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -67,18 +70,28 @@
       <file leaf-file-name="priceComparer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/priceComparer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="74" column="85" selection-start-line="74" selection-start-column="85" selection-end-line="74" selection-end-column="85" />
+            <state relative-caret-position="238">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="newUserRegistration.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="newUserRegistration.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/newUserRegistration.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newProductAdding.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/newProductAdding.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="670">
+              <caret line="67" column="43" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -87,7 +100,7 @@
       <file leaf-file-name="google_search_test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/google_search_test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
+            <state relative-caret-position="289">
               <caret line="17" column="83" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
               <folding />
             </state>
@@ -116,8 +129,9 @@
         <option value="$PROJECT_DIR$/google_search_test.js" />
         <option value="$PROJECT_DIR$/alphabetCountry.js" />
         <option value="$PROJECT_DIR$/alphabetZones.js" />
-        <option value="$PROJECT_DIR$/priceComparer.js" />
         <option value="$PROJECT_DIR$/newUserRegistration.js" />
+        <option value="$PROJECT_DIR$/priceComparer.js" />
+        <option value="$PROJECT_DIR$/newProductAdding.js" />
       </list>
     </option>
   </component>
@@ -158,7 +172,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -178,12 +191,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Selenium-training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Selenium-training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/newUserRegistration.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/newProductAdding.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="JavaScriptPreferStrict" value="false" />
@@ -195,14 +223,15 @@
     <property name="nodejs.mocha.mocha_node_package_dir" value="C:\Users\Толик\Documents\GitHub\Selenium-training\node_modules\mocha" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Толик\Documents\GitHub\Selenium-training" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Толик\Documents\GitHub\Selenium-training" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Толик\Documents\GitHub\Selenium-training\files" />
+      <recent name="C:\Users\Толик\Documents\GitHub\Selenium-training" />
+    </key>
   </component>
-  <component name="RunManager" selected="Mocha.userRegistration">
+  <component name="RunManager" selected="Mocha.newProductAdding">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -328,6 +357,18 @@
       <test-file>$PROJECT_DIR$/newUserRegistration.js</test-file>
       <method />
     </configuration>
+    <configuration default="false" name="newProductAdding" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options>-t 30000</extra-mocha-options>
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/newProductAdding.js</test-file>
+      <method />
+    </configuration>
     <configuration default="false" name="alphabetZones" type="mocha-javascript-test-runner" factoryName="Mocha" singleton="false">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -352,15 +393,16 @@
       <test-file>$PROJECT_DIR$/stickersChecker.js</test-file>
       <method />
     </configuration>
-    <list size="8">
+    <list size="9">
       <item index="0" class="java.lang.String" itemvalue="Mocha.google_search_test.js" />
       <item index="1" class="java.lang.String" itemvalue="Mocha.adminLogin" />
       <item index="2" class="java.lang.String" itemvalue="Mocha.menuClicker" />
       <item index="3" class="java.lang.String" itemvalue="Mocha.alphabetCountry" />
       <item index="4" class="java.lang.String" itemvalue="Mocha.priceComparer" />
       <item index="5" class="java.lang.String" itemvalue="Mocha.userRegistration" />
-      <item index="6" class="java.lang.String" itemvalue="Mocha.alphabetZones" />
-      <item index="7" class="java.lang.String" itemvalue="Mocha.stickerChecker" />
+      <item index="6" class="java.lang.String" itemvalue="Mocha.newProductAdding" />
+      <item index="7" class="java.lang.String" itemvalue="Mocha.alphabetZones" />
+      <item index="8" class="java.lang.String" itemvalue="Mocha.stickerChecker" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -382,54 +424,55 @@
       <workItem from="1482727248242" duration="7501000" />
       <workItem from="1482783487440" duration="7834000" />
       <workItem from="1482869431927" duration="5916000" />
-      <workItem from="1483280030692" duration="20004000" />
+      <workItem from="1483280030692" duration="20334000" />
+      <workItem from="1483790623644" duration="9512000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="userRegistration - 2017.01.01 at 22h 52m 03s.xml">
-      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="newProductAdding - 2017.01.07 at 16h 06m 02s.xml">
+      <configuration name="newProductAdding" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="userRegistration - 2017.01.01 at 22h 52m 53s.xml">
-      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="newProductAdding - 2017.01.07 at 16h 06m 40s.xml">
+      <configuration name="newProductAdding" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="userRegistration - 2017.01.01 at 22h 54m 17s.xml">
-      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="newProductAdding - 2017.01.07 at 16h 07m 05s.xml">
+      <configuration name="newProductAdding" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="userRegistration - 2017.01.01 at 22h 55m 03s.xml">
-      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="newProductAdding - 2017.01.07 at 16h 09m 32s.xml">
+      <configuration name="newProductAdding" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="userRegistration - 2017.01.01 at 22h 55m 37s.xml">
-      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="newProductAdding - 2017.01.07 at 16h 10m 36s.xml">
+      <configuration name="newProductAdding" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="userRegistration - 2017.01.01 at 22h 56m 30s.xml">
-      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="newProductAdding - 2017.01.07 at 16h 11m 38s.xml">
+      <configuration name="newProductAdding" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="userRegistration - 2017.01.01 at 22h 59m 17s.xml">
-      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="newProductAdding - 2017.01.07 at 17h 02m 09s.xml">
+      <configuration name="newProductAdding" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="userRegistration - 2017.01.01 at 23h 09m 22s.xml">
-      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="newProductAdding - 2017.01.07 at 17h 06m 10s.xml">
+      <configuration name="newProductAdding" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="userRegistration - 2017.01.01 at 23h 10m 16s.xml">
-      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="newProductAdding - 2017.01.07 at 17h 08m 54s.xml">
+      <configuration name="newProductAdding" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="userRegistration - 2017.01.01 at 23h 23m 11s.xml">
-      <configuration name="userRegistration" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="newProductAdding - 2017.01.07 at 17h 15m 15s.xml">
+      <configuration name="newProductAdding" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58070000" />
+    <option name="totallyTimeSpent" value="67912000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1918" height="1038" extended-state="0" />
+    <frame x="1" y="1" width="1918" height="1038" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17819148" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.117045455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.061363637" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -442,6 +485,24 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.117045455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17819148" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -459,6 +520,62 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/menuClicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stickersChecker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alphabetCountry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="149" column="0" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alphabetZones.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="63" selection-start-line="19" selection-start-column="3" selection-end-line="22" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/priceComparer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="85" selection-start-line="74" selection-start-column="85" selection-end-line="74" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newUserRegistration.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google_search_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="83" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/google_search_test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -702,26 +819,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/priceComparer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="74" column="85" selection-start-line="74" selection-start-column="85" selection-end-line="74" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alphabetCountry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="149" column="0" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/alphabetZones.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="63" selection-start-line="19" selection-start-column="3" selection-end-line="22" selection-end-column="63" />
+        <state relative-caret-position="119">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/priceComparer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -734,26 +843,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/menuClicker.js">
+    <entry file="file://$PROJECT_DIR$/alphabetCountry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/google_search_test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="17" column="83" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
+        <state relative-caret-position="119">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/newUserRegistration.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google_search_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="83" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menuClicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newProductAdding.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="67" column="43" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
           <folding />
         </state>
       </provider>

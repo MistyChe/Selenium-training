@@ -4,7 +4,7 @@ const test = require('selenium-webdriver/testing');
 
 let driver;
 
-test.describe('Litecart open main poge', function() {
+test.describe('Litecart open main page', function() {
   test.before(function *() {
     driver = yield new Builder().forBrowser('chrome').build();
   });
